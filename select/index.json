@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "悪い絵本を知ったかな。",
+  "base_artist": "アメリカ民謡研究会",
+  "createdAt": "2026-03-29T14:04:44.843438Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "悪い絵本を知ったかな。",
+      "artist": "アメリカ民謡研究会",
+      "has_synced": false,
+      "path": "select/pl_01_悪い絵本を知ったかな。_アメリカ民謡研究会.txt"
+    }
+  ]
+}
